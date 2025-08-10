@@ -6,3 +6,4 @@ The goal is to assist strategic decision-making by:
 * Identifying high-risk and high-impact items
 * Analyzing environmental and geopolitical factors
 * Building a predictive model to auto-classify new items¶
+

@@ -44,7 +44,7 @@ Predictive Modeling: Train models to auto-classify procurement items.
 ## 📌 Conclusion :
 The Kraljic Matrix helps organizations make smarter, strategic sourcing decisions—boosting efficiency, reducing risks, and strengthening supply chain resilience. Let me know if you'd like help framing this for various audiences or fields. 
 * Successful Kraljic-based procurement projects integrate:
-Strategic collaboration for high-risk, high-impact items,
-Smart leverage of buying power in low-risk areas, and
-Innovative, tech-enabled risk management.
+- Strategic collaboration for high-risk, high-impact items,
+- Smart leverage of buying power in low-risk areas, and
+- Innovative, tech-enabled risk management.
 This trio forms the backbone of practical, high-performing procurement strategies in real organizations.

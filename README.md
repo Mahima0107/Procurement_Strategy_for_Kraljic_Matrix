@@ -23,3 +23,16 @@ Segmentation into Non-Critical, Leverage, Bottleneck, and Strategic categories.
 Strategy testing for each quadrant—like risk mitigation, supplier consolidation, negotiation, and sustainability integration.
 - Compact and Usable:
 A well-structured CSV dataset (~1,000 records) for easy import into tools like Python, Excel, or BI platforms
+
+## Model Accuracy :
+ Analyzing environmental and geopolitical factors
+* Building a predictive model to auto-classify new items
+
+
+Conclusion :
+* Naive Bayes and Linear Regression both achieved 100% accuracy, suggesting good (Excellent) model fit, signaling perfect classification on this dataset—but such results warrant careful scrutiny for potential overfitting.
+* Gradient Boosting and Random Forest followed closely at 99% accuracy, demonstrating exceptionally strong predictive power and reliability.
+* Logistic Regression performed well with 94% accuracy, marking it as a robust yet simpler alternative.
+* K-Nearest Neighbors (KNN) achieved 85% accuracy, hinting at moderate performance that may suffer in more complex patterns.
+* Support Vector Machine (SVM) posted the lowest performance among classifiers at 80% accuracy, indicating possible challenges in capturing non-linear boundaries or high variance in features.
+* AdaBoost lagged significantly at 54%, suggesting poor model fit, instability, or misconfiguration relative to other ensemble methods.¶

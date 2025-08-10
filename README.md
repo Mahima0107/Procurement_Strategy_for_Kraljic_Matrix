@@ -7,7 +7,7 @@ The goal is to assist strategic decision-making by:
 - Analyzing environmental and geopolitical factors
 - Building a predictive model to auto-classify new items¶
 
-# Dataset Details : 
+###  Dataset Details : 
 * In this dataset There are 11 columns and 1000 rows.
 * Algorithm Used: K Nearest Neighbors , Naive Bayes , Logistic Regression , Support Vector Machine , Linear Regression , Gradient Boosting , Random Forest , Adaboost Algorithms .
 * Libraries: scikit-learn, pandas, matplotlib, seaborn 

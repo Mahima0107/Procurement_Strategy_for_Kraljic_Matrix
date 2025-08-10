@@ -11,3 +11,15 @@ The goal is to assist strategic decision-making by:
 * In this dataset There are 11 columns and 1000 rows.
 * Algorithm Used: K Nearest Neighbors , Naive Bayes , Logistic Regression , Support Vector Machine , Linear Regression , Gradient Boosting , Random Forest , Adaboost Algorithms .
 * Libraries: scikit-learn, pandas, matplotlib, seaborn 
+
+## Key Features of the Realistic Kraljic Matrix :
+- Synthetic yet Realistic:
+  Designed to mimic real-world procurement behavior using built-in biases and patterns like supplier dependencies, geopolitical risk factors, and sustainability considerations 
+- Rich Attribute Set:
+Supply Risk & Profit Impact scores to drive item categorization across the four Kraljic quadrants.
+Additional variables such as cost, environmental scores, and supplier relationships to support deeper strategic analysis 
+- Actionable Structure: Tailored to enable exercises in:
+Segmentation into Non-Critical, Leverage, Bottleneck, and Strategic categories.
+Strategy testing for each quadrant—like risk mitigation, supplier consolidation, negotiation, and sustainability integration.
+- Compact and Usable:
+A well-structured CSV dataset (~1,000 records) for easy import into tools like Python, Excel, or BI platforms
